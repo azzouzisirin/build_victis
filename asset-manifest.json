@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05fce510.chunk.css",
+    "main.js": "/static/js/main.dd84c6c1.chunk.js",
+    "main.js.map": "/static/js/main.dd84c6c1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.92caed5d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.92caed5d.js.map",
+    "static/css/2.f26e749f.chunk.css": "/static/css/2.f26e749f.chunk.css",
+    "static/js/2.f1fdb4d5.chunk.js": "/static/js/2.f1fdb4d5.chunk.js",
+    "static/js/2.f1fdb4d5.chunk.js.map": "/static/js/2.f1fdb4d5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.05fce510.chunk.css.map": "/static/css/main.05fce510.chunk.css.map",
+    "static/js/2.f1fdb4d5.chunk.js.LICENSE.txt": "/static/js/2.f1fdb4d5.chunk.js.LICENSE.txt",
+    "static/media/Reglement interieur.b7f68893.pdf": "/static/media/Reglement interieur.b7f68893.pdf",
+    "static/media/home.css": "/static/media/contact_2.9e056b78.jpg",
+    "static/media/logo.png": "/static/media/logo.604a558a.png",
+    "static/media/logo_victis.cf92627a.png": "/static/media/logo_victis.cf92627a.png",
+    "static/media/videobackground.a96c0f29.mp4": "/static/media/videobackground.a96c0f29.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92caed5d.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.f1fdb4d5.chunk.js",
+    "static/css/main.05fce510.chunk.css",
+    "static/js/main.dd84c6c1.chunk.js"
+  ]
+}
